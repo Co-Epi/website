@@ -42,12 +42,12 @@ We’re designing CoEpi to be useful for reducing the spread of all infectious d
 
 Here are some of the other things individuals and communities should be doing to prepare for a COVID-19 pandemic.
 * Read this article [https://virologydownunder.com/past-time-to-tell-the-public-it-will-probably-go-pandemic-and-we-should-all-prepare-now/](https://virologydownunder.com/past-time-to-tell-the-public-it-will-probably-go-pandemic-and-we-should-all-prepare-now/) and follow its advice, including the following:
- * Try to get a few extra months’ worth of prescription meds, if possible. 
- * Think through now how we will take care of sick family members while trying not to get infected. 
- * Cross-train key staff at work so one person’s absence won’t derail your organization’s ability to function.
- * Practice touching our faces less.
- * Replace handshakes with elbow-bumps. 
- * Start building harm-reduction habits like pushing elevator buttons with a knuckle instead of a fingertip. 
+  * Try to get a few extra months’ worth of prescription meds, if possible. 
+  * Think through now how we will take care of sick family members while trying not to get infected. 
+  * Cross-train key staff at work so one person’s absence won’t derail your organization’s ability to function.
+  * Practice touching our faces less.
+  * Replace handshakes with elbow-bumps. 
+  * Start building harm-reduction habits like pushing elevator buttons with a knuckle instead of a fingertip. 
 
 * Get your flu shot: if you get a serious case of flu and then catch COVID (possibly while in the hospital for flu) that dramatically increases your chances of dying from the coinfection: [https://twitter.com/V2019N/status/1231604410502897664](https://twitter.com/V2019N/status/1231604410502897664)
 * Don’t book flights or non-refundable hotels more than a few weeks in the future: travel is likely to be seriously disrupted over the next few months as conferences etc. are shut down to minimize COVID transmission. 
