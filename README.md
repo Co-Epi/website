@@ -57,4 +57,4 @@ Here are some of the other things individuals and communities should be doing to
 
 ## How can you help with CoEpi?
 
-We need lots of help to get this project going - we need developers for iOS, Android, web, and probably even more. If you're interested in diving in on this project, please reach out on Twitter to [Dana](https://twitter.com/danamlewis) and [Scott](https://twitter.com/scottleibrand).
+We need lots of help to get this project going - we need developers for iOS, Android, web, and probably even more. If you're interested in diving in on this project, please reach out to [Dana](https://twitter.com/danamlewis) and [Scott](https://twitter.com/scottleibrand).
