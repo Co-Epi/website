@@ -55,3 +55,6 @@ Here are some of the other things individuals and communities should be doing to
 * Don’t book flights or non-refundable hotels more than a few weeks in the future: travel is likely to be seriously disrupted over the next few months as conferences etc. are shut down to minimize COVID transmission. 
 * If you are planning a community event, party, gathering, conference, in-person meeting, etc. for either personal or professional reasons, try to keep your plans flexible. Determine whether it’d be possible to reschedule the event for later in the year or next year, and understand when you’d need to make such a decision to avoid excessive cost or disruption. If possible, also consider converting to a virtual event; or otherwise using a different format to achieve the goals of the event. 
 
+## How can you help with CoEpi?
+
+We need lots of help to get this project going - we need developers for iOS, Android, web, and probably even more. If you're interested in diving in on this project, please reach out on Twitter to [Dana](https://twitter.com/danamlewis) and [Scott](https://twitter.com/scottleibrand).
