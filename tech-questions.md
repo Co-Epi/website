@@ -1,6 +1,7 @@
 # Tech questions and preliminary research notes
 * What location data can be exported from Google Maps etc.?
   * Per <https://support.google.com/maps/thread/13214681?hl=en> you can export individual days' data as kml.
+  * If you want to export your entire history and then pare it down, <https://webapps.stackexchange.com/questions/97919/turning-google-timeline-into-a-travel-map> has directions for that.
 * Can apps stay in BT/wifi listen mode and get MAC addresses seen (like bluez does)?
   * <https://developer.apple.com/library/archive/documentation/NetworkingInternetWeb/Conceptual/CoreBluetooth_concepts/CoreBluetoothBackgroundProcessingForIOSApps/PerformingTasksWhileYourAppIsInTheBackground.html>
   * <https://scribles.net/enabling-background-ble-scanning-on-iphone/>
