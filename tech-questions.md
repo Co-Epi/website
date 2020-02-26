@@ -1,5 +1,6 @@
-# Tech questions and preliminary research notes
-## Website POC
+# [CoEpi Community Epidemiology Project](index.md)
+## Tech questions and preliminary research notes
+### Website POC
 * What location data can be exported from Google Maps etc.?
   * Per <https://support.google.com/maps/thread/13214681?hl=en> you can export individual days' data as kml.
   * If you want to export your entire history and then pare it down, <https://webapps.stackexchange.com/questions/97919/turning-google-timeline-into-a-travel-map> has directions for that.
