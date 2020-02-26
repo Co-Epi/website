@@ -1,5 +1,7 @@
 # CoEpi: Community Epidemiology In Action
 
+[Home page](https://co-epi.github.io/website/) | [Tech Questions](tech-questions.md) | [Web Work-In-Progress](webapp-poc.md)
+
 ## A COVID pandemic is nearly inevitable
 
 As COVID-19 transitions from epidemic to pandemic, and responses transition from containment to mitigation, the question arises: “What can we do?” As public health authorities scramble to trace contacts, ensure health systems are prepared, and even begin to implement wider social distancing measures as outbreaks spread, the advice to individuals remains simple: scrub down your hands with soap after touching surfaces, stay home from work or school if sick, etc. This is good advice, but leaves open the question of when it’s appropriate to take more disruptive action to reduce transmission risk.
@@ -8,9 +10,9 @@ As COVID-19 transitions from epidemic to pandemic, and responses transition from
 
 The CoEpi project attempts to bridge the gap between governmental public health actions and individual attention to hygiene. We believe it is possible to use modern smartphone technology, including Bluetooth Low Energy and Location Services, to empower individuals and their personal networks to automatically and anonymously track their own contacts, and inform themselves and their friends and family about increased infection risks. This will allow individuals to make informed risk-based decisions about when it’s most important to implement additional social distancing measures above and beyond the measures being recommended community-wide.
 
-## Proof of Concept
+## Web Proof of Concept
 
-As an initial proof of concept, we should build a website that allows users to get tailored information, specific to their location and/or social network, about their level of potential exposure as well as suggestions for hygiene, social distancing, or self-isolation measures appropriate to their location/history. 
+As an initial proof of concept, we should build a website ([see more details here](webapp-poc.md)) that allows users to get tailored information, specific to their location and/or social network, about their level of potential exposure as well as suggestions for hygiene, social distancing, or self-isolation measures appropriate to their location/history. 
 * Allow people to enter a location of interest, and see on a map the nearest publicly known locations of community transmission.
 * Allow people to cross-check their location history exported from Google Maps (or another app) against known (public) locations of community transmission.
   * Location history export can be processed locally in-browser without uploading for full privacy.
