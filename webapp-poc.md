@@ -1,4 +1,7 @@
 # [CoEpi Project](index.md)
+
+[Home page](https://co-epi.github.io/website/) | [Tech Questions](tech-questions.md) | [Web Work-In-Progress](webapp-poc.md)
+
 ## Proof of Concept 
 
 It looks like we might need some sort of trusted relationship with a public health agency to get any detailed location data on public places visited by COVID-19 cases. In the meantime, we should on making a web app POC of our CoEpi app using a similar anonymous mechanism (albeit with slightly weaker privacy guarantees against reidentification by attackers with access to other surveillance data). Here’s how it’d work:
