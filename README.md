@@ -58,3 +58,5 @@ Here are some of the other things individuals and communities should be doing to
 ## How can you help with CoEpi?
 
 We need lots of help to get this project going - we need developers for iOS, Android, web, epidemiological advice and public health advice, and will likely lots of other non-technical skills as well. If you're interested in diving in on this project, and have any idea of how you could help, please reach out to [Dana](https://twitter.com/danamlewis) and [Scott](https://twitter.com/scottleibrand).
+
+Or, if you'd like to dive right in, check out our [Tech questions and preliminary research notes](tech-questions.md) page and send us a pull request with your input!
