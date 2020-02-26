@@ -1,4 +1,7 @@
 # [CoEpi Community Epidemiology Project](index.md)
+
+[Home page](https://co-epi.github.io/website/) | [Tech Questions](tech-questions.md) | [Web Work-In-Progress](webapp-poc.md)
+
 ## Tech questions and preliminary research notes
 
 If you're reading this, please contribute as well! If you can think of any technical questions, answers, or comments on how CoEpi would work, no matter how "dumb" you think they are, please PR them below (click the View on GitHub button above, then click the little Edit icon that looks like a pencil).
