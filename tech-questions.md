@@ -1,5 +1,8 @@
 # [CoEpi Community Epidemiology Project](index.md)
 ## Tech questions and preliminary research notes
+
+If you're reading this, please contribute as well! If you can think of any technical questions, answers, or comments on how CoEpi would work, no matter how "dumb" you think they are, please PR them below (click the View on GitHub button above, then click the little Edit icon that looks like a pencil).
+
 ### Website POC
 * What location data can be exported from Google Maps etc.?
   * Per <https://support.google.com/maps/thread/13214681?hl=en> you can export individual days' data as kml.
