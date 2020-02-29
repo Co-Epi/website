@@ -2,7 +2,15 @@
 
 [Home page](https://co-epi.github.io/website/) | [Tech Questions](tech-questions.md) | [Web Work-In-Progress](webapp-poc.md)
 
-## Proof of Concept 
+## Web Proof of Concept
+
+Update: our current thinking is to skip this step and straight to building a minimum viable standalone mobile app. If anyone else would like to implement something along the lines described below, please feel free.
+
+As an initial proof of concept, we could build a website that allows users to get tailored information, specific to their location and/or social network, about their level of potential exposure as well as suggestions for hygiene, social distancing, or self-isolation measures appropriate to their location/history.
+* Allow people to enter a location of interest, and see on a map the nearest publicly known locations of community transmission.
+* Allow people to cross-check their location history exported from Google Maps (or another app) against known (public) locations of community transmission.
+  * Location history export can be processed locally in-browser without uploading for full privacy.
+  * If users want to trade privacy for the convenience and reassurance of proactive notifications, we could allow them to upload a list of locations (perhaps without detailed timestamps, to preserve some privacy) so that any new community transmission locations generate an alert to anyone who’s been there recently. Then they can re-run the local processing against the public data feeds to get details on how likely they were to have been exposed.
 
 It looks like we might need some sort of trusted relationship with a public health agency to get any detailed location data on public places visited by COVID-19 cases. In the meantime, we should on making a web app POC of our CoEpi app using a similar anonymous mechanism (albeit with slightly weaker privacy guarantees against reidentification by attackers with access to other surveillance data). Here’s how it’d work:
 
