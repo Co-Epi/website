@@ -1,6 +1,6 @@
 # CoEpi: Community Epidemiology In Action
 
-[Home page](https://co-epi.github.io/website/) | [Tech Questions](tech-questions.md) | [Web Work-In-Progress](webapp-poc.md)
+[Home page](https://co-epi.github.io/website/) | [Tech Questions](tech-questions.md) | [Other ideas](webapp-poc.md)
 
 ## A COVID pandemic is nearly inevitable
 
