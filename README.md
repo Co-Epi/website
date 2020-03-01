@@ -10,14 +10,6 @@ As COVID-19 transitions from epidemic to pandemic, and responses transition from
 
 The CoEpi project attempts to bridge the gap between governmental public health actions and individual attention to hygiene. We believe it is possible to use modern smartphone technology, including Bluetooth Low Energy and Location Services, to empower individuals and their personal networks to automatically and anonymously track their own contacts, and inform themselves and their friends and family about increased infection risks. This will allow individuals to make informed risk-based decisions about when it’s most important to implement additional social distancing measures above and beyond the measures being recommended community-wide.
 
-## Web Proof of Concept
-
-As an initial proof of concept, we should build a website ([see more details here](webapp-poc.md)) that allows users to get tailored information, specific to their location and/or social network, about their level of potential exposure as well as suggestions for hygiene, social distancing, or self-isolation measures appropriate to their location/history. 
-* Allow people to enter a location of interest, and see on a map the nearest publicly known locations of community transmission.
-* Allow people to cross-check their location history exported from Google Maps (or another app) against known (public) locations of community transmission.
-  * Location history export can be processed locally in-browser without uploading for full privacy.
-  * If users want to trade privacy for the convenience and reassurance of proactive notifications, we could allow them to upload a list of locations (perhaps without detailed timestamps, to preserve some privacy) so that any new community transmission locations generate an alert to anyone who’s been there recently. Then they can re-run the local processing against the public data feeds to get details on how likely they were to have been exposed.
-  
 ## The CoEpi app
 
 To fully unleash the power of community epidemiology (CoEpi), we should create an app that empowers people to leverage their personal social network for better awareness of granular infection risks.
