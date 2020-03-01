@@ -42,3 +42,11 @@ All web server logs containing client IPs are quickly rotated and deleted.
 * In “Check Exposure” mode, the user selects up to about 2 weeks of kml files, which are locally parsed in the browser and address hashes generated as described above. The hashed addresses and rounded TimeSpans are provided to the server, it looks them up in its database, and any matches found are returned and displayed, along with the reported symptoms that were (later) observed by people present at that location on that date and/or hour. The server does not retain any records of what records were checked or whether or not any records were matched.
 
 
+## Tech Q&A
+
+### Website POC
+* What location data can be exported from Google Maps etc.?
+  * Per <https://support.google.com/maps/thread/13214681?hl=en> you can export individual days' data as kml.
+  * If you want to export your entire history and then pare it down, <https://webapps.stackexchange.com/questions/97919/turning-google-timeline-into-a-travel-map> has directions for that.
+* What has already been done?
+  * <http://googlemapsmania.blogspot.com/2020/02/covid-19-maps.html>
