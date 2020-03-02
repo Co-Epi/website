@@ -1,6 +1,6 @@
 # [CoEpi Community Epidemiology Project](index.md)
 
-[Home page](https://co-epi.github.io/website/) | [Manual #CoEpi](diy.md) | [Initial conceptual design schematic](documents/flu-smart/FluSmart_Visio.pdf) | [Tech Questions](tech-questions.md) | [Other ideas](webapp-poc.md)
+[Home page](https://co-epi.github.io/website/) | [Manual #CoEpi](manual.md) | [Initial conceptual design schematic](documents/flu-smart/FluSmart_Visio.pdf) | [Tech Questions](tech-questions.md) | [Other ideas](webapp-poc.md)
 
 ## Tech questions and preliminary research notes
 
