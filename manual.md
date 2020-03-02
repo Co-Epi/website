@@ -1,7 +1,7 @@
 [Home page](https://co-epi.github.io/website/) | [Manual #CoEpi](diy.md) | [Initial conceptual design schematic](documents/flu-smart/FluSmart_Visio.pdf) | [Tech Questions](tech-questions.md) | [Other ideas](webapp-poc.md)
 
 # Share your #CoEpi status today to save a life from Coronavirus
-Late Saturday evening, Leap Day Feb 29, 2020, we learned from the genetic sequence of their coronaviruses that someone ~20 miles from our house north of Seattle who was just diagnosed the day before with COVID-19 had (with high probability) a virus directly descended from that of the first WA case, sampled Jan 19. The same day, we learned that another person just south of Seattle died of COVID-19, and that dozens of others are likely infected there. Since then, public officials have been uncovering more and more previously hidden cases, and will be discovering far more in coming days.
+Late Saturday evening, Leap Day Feb 29, 2020, we learned from the genetic sequence of their coronaviruses that someone north of Seattle who was just diagnosed the day before with COVID-19 had (with high probability) a virus directly descended from that of the first Washington case, sampled Jan 19. The same day, we learned that another person just south of Seattle died of COVID-19, and that dozens of others are likely infected there. Since then, public officials have been uncovering more and more previously hidden cases, and will be discovering far more in coming days.
 
 This outbreak has been spreading exponentially undetected through our community for 6 weeks now, and epidemiological estimates put the total likely infections in the Seattle area somewhere in the range of hundreds to thousands.
 
