@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 title: "CoEpi: Community Epidemiology In Action"
 description: a website for the Co-Epi (Community Epidemiology In Action) project 
 google_analytics: UA-158941850-1
+github:
+  repository_url: https://github.com/Co-Epi
