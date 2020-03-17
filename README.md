@@ -1,6 +1,6 @@
 # CoEpi: Community Epidemiology In Action
 
-[Home page](https://co-epi.github.io/website/) | [Manual #CoEpi](manual.md) | [Initial conceptual design schematic](documents/flu-smart/FluSmart_Visio.pdf) | [Tech Questions](tech-questions.md) | [Other ideas](webapp-poc.md)
+[Home page](https://co-epi.github.io/website/) | [Manual #CoEpi](manual.md) | [Vision/Design of #CoEpi](vision.md)
 
 ## A COVID pandemic is nearly inevitable
 As COVID-19 transitions from epidemic to pandemic, and responses transition from containment to mitigation, the question arises: “What can we do?” As public health authorities scramble to trace contacts, ensure health systems are prepared, and even begin to implement wider social distancing measures as outbreaks spread, the advice to individuals remains simple: scrub down your hands with soap after touching surfaces, stay home from work or school if sick, etc. This is good advice, but leaves open the question of when it’s appropriate to take more disruptive action to reduce transmission risk.
