@@ -15,10 +15,17 @@ The CoEpi project attempts to bridge the gap between governmental public health 
 The CoEpi team currently consists of a small group of individuals with diverse and relevant skills who feel the need to put those skills to use in service of our own loved ones, our broader social networks, our communities, and humanity. We are committed to working openly and transparently, publishing all of our work completely open-source for anyone to use in any way they can, to make sure we are all doing everything we can to minimize the death and disruption caused by the COVID-19 pandemic.
 
 ## We need your help
-We are already starting on building the CoEpi app described below. We have a very solid initial design, and have recruited individuals who can begin producing a minimum viable product. But we can’t move fast enough on our own. If you’re someone with skills and time you could use to help, please get in touch with us immediately: every day it takes us to ramp up development is another day that people are dying. If you don’t have the ability to help out directly, please share this with anyone you know who might be able to, or who might know others who could help. If you have connections at a company who might be able to commit people to helping on this, either by working with us or doing something similar internally, please reach out to them and let them know how urgent it is and how much of a difference they could make.
+We are already starting on building the CoEpi app described below. We have a very solid initial design, and have recruited individuals who can begin producing a minimum viable product. But we can’t move fast enough on our own. If you’re someone with skills and time you could use to help, please get in touch with us immediately: every day it takes us to ramp up development is another day that people are dying. If you don’t have the ability to help out directly, please share this with anyone you know who might be able to, or who might know others who could help. If you have connections at a company who might be able to commit people to helping on this open source project, either by working with us or doing something similar internally, please reach out to them and let them know how urgent it is and how much of a difference they could make.
 
-## The CoEpi app
+Currently, we are seeking:
+* ReactNative mobile development expertise
+* Backend experience with rails/postgres/Heroku
+
+If you're someone who would like to test the early version of the #CoEpi app (or if you have other skills to volunteer), fill out [this form](https://forms.gle/MLeKz9nerPvX8fwC8).
+
+## The CoEpi app: vision
 To fully unleash the power of community epidemiology (CoEpi), we are creating an app that empowers people to leverage their personal social network for better awareness of granular infection risks.
+
 The CoEpi app will have utmost regard for personal privacy and will ask for permission when any sharing of sensitive data is needed.  It will only ask individuals to contribute their private data for the good of their community if they become unwell; even when this occurs, the system is designed to permit only the minimum necessary information to be revealed, such that the actual identity of the volunteer participants is maximally concealed.
 
 The CoEpi mobile app will ask permission for everything it does, and will allow individuals to:
@@ -62,8 +69,9 @@ There will be a main publicly-available server run by the CoEpi community to han
 Anyone who doesn’t trust the community-run server, or who wants to run their own for any other reason, can run their own server and invite people in their social network to (also) use that one. Anyone can read from multiple servers, and choose one or more of those servers to submit symptoms/tests to. We may choose to implement FHIR integration or similar to allow health systems to run their own server so patients can choose to report symptoms to and receive test results from the hospital’s EHR.
 
 ## How can you help with CoEpi?
-We need lots of help to get this project going quickly - we especially need people right now with mobile app development experience (either native iOS or Android or using something like #ReactNative), and also folks experienced with building scalable cloud applications with backend data stores and flexible container-based front ends, to help get #CoEpi off the ground as fast as possible. 
+We need lots of help to get this project going quickly - we especially need people right now with mobile app development experience (ReactNative), and also folks experienced with building scalable cloud applications with backend data stores and flexible container-based front ends, to help get #CoEpi off the ground as fast as possible. 
 
-If you’re interested in diving in on this project, and have any idea of how you could help, please reach out to [Dana](https://twitter.com/danamlewis) and [Scott](https://twitter.com/scottleibrand), and we can get you connected to the group.
+If you’re interested in diving in on this project, and have any idea of how you could help, please reach out to [Dana](https://twitter.com/danamlewis) and [Scott](https://twitter.com/scottleibrand), and we can get you connected to the group. 
+If you're someone who would like to test the early version of the #CoEpi app (or if you have other skills to volunteer), fill out [this form](https://forms.gle/MLeKz9nerPvX8fwC8).
 
 And finally, as noted above, if you don’t have the ability to help out directly, please share this with anyone you know who might be able to, or who might know others who could help. If you have connections at an organization who might be able to commit people to helping on this, either by working with us or doing something similar internally, please reach out to them and let them know how urgent it is and how much of a difference they could make.
