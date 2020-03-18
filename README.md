@@ -2,8 +2,8 @@
 
 [Home page](https://co-epi.github.io/website/) | [Manual #CoEpi](manual.md) | [Vision/Design of #CoEpi](vision.md)
 
-## A COVID pandemic is nearly inevitable
-As COVID-19 transitions from epidemic to pandemic, and responses transition from containment to mitigation, the question arises: “What can we do?” As public health authorities scramble to trace contacts, ensure health systems are prepared, and even begin to implement wider social distancing measures as outbreaks spread, the advice to individuals remains simple: scrub down your hands with soap after touching surfaces, stay home from work or school if sick, etc. This is good advice, but leaves open the question of when it’s appropriate to take more disruptive action to reduce transmission risk.
+## A COVID pandemic
+As individual COVID-19 outbreaks grow and merge into a global pandemic, and responses transition from containment to mitigation, the question arises: “What can we do?” As public health authorities scramble to trace contacts, ensure health systems are prepared, and even begin to implement wider social distancing measures as outbreaks spread, the advice to individuals remains simple: scrub down your hands with soap after touching surfaces, stay home from work or school if sick, etc. This is good advice, but leaves open the question of when it’s appropriate to take more disruptive action to reduce transmission risk.
 
 ## What can you do?
 COVID-19 is here, in our communities, and people are dying. You, yes everyone, can start taking action today to slow the spread of #coronavirus. This isn't normally true, but in this crisis you, personally, can save at least one life by putting #CoEpi, Community Epidemiology, into Action, and talking to everyone to know about your own symptoms, asking about theirs, and being extra vigilant when you're symptomatic or exposed, to prevent the transmission of contagious illnesses, break the chains of COVID-19 coronavirus transmission, and ultimately save the life of a parent, grandparent, or vulnerable relative of someone in your community. [Here's how to start](manual.md).
