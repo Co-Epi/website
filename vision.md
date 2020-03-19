@@ -46,3 +46,6 @@ The CoEpi app and server code will be completely open-source and free to use.
 There will be a main publicly-available server run by the CoEpi community to handle new app registration, symptom and test reporting, etc. This server will endeavor not to retain any PII from individuals. Client IP addresses will not be stored in a database or recorded in log files any longer than necessary. Phone numbers and email addresses will not be linked to the user in any way. There will be no “user accounts” on the server with usernames and passwords: if someone gets a new phone, they’ll need to re-register all their close contacts the next time they come in contact.
 
 Anyone who doesn’t trust the community-run server, or who wants to run their own for any other reason, can run their own server and invite people in their social network to (also) use that one. Anyone can read from multiple servers, and choose one or more of those servers to submit symptoms/tests to. We may choose to implement FHIR integration or similar to allow health systems to run their own server so patients can choose to report symptoms to and receive test results from the hospital’s EHR.
+
+## Additional details
+Additional details on our current work-in-progress implementations, data models for future functionality, and more can be found in our GitHub repositories: https://github.com/Co-Epi
