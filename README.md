@@ -20,13 +20,13 @@ The CoEpi team currently consists of a small group of individuals with diverse a
 We are already starting on building the CoEpi app ([as described here](vision.md)). We have a very solid initial design, and initial prototypes being developed. But we can’t move fast enough on our own. If you’re someone with skills and time you could use to help, please get in touch with us immediately: every day it takes us to ramp up development is another day that people are dying. If you don’t have the ability to help out directly, please share this with anyone you know who might be able to, or who might know others who could help. If you have connections at a company who might be able to commit people to helping on this open source project, either by working with us or doing something similar internally, please reach out to them and let them know how urgent it is and how much of a difference they could make.
 
 Currently, we are seeking:
-* ReactNative mobile development expertise
-* Backend experience with rails/postgres/Heroku
+* native mobile development expertise (iOS and Android)
+* Backend experience 
 
 If you're someone who would like to test the early version of the #CoEpi app (or if you have other skills to volunteer), fill out [this form](https://forms.gle/MLeKz9nerPvX8fwC8).
 
 ## How can you help with CoEpi?
-We need lots of help to get this project going quickly - we especially need people right now with mobile app development experience (ReactNative), and also folks experienced with building scalable cloud applications with backend data stores and flexible container-based front ends, to help get #CoEpi off the ground as fast as possible. 
+We need lots of help to get this project going quickly - we especially need people right now with native mobile app development experience (either iOS or Android), and also folks experienced with building scalable cloud applications with backend data stores and flexible container-based front ends, to help get #CoEpi off the ground as fast as possible. You can see our active repositories [here](https://github.com/Co-Epi).
 
 If you’re interested in diving in on this project, and have any idea of how you could help, please reach out to [Dana](https://twitter.com/danamlewis) and [Scott](https://twitter.com/scottleibrand), and we can get you connected to the group. 
 If you're someone who would like to test the early version of the #CoEpi app (or if you have other skills to volunteer), fill out [this form](https://forms.gle/MLeKz9nerPvX8fwC8).
