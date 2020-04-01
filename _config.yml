@@ -9,7 +9,7 @@ google_analytics_key: UA-158941850-1
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /favicon-96x96.png
-description: CoEpi: Community Epidemiology in Action
+description: "CoEpi: Community Epidemiology in Action"
 author: CoEpi
   name:
   email:
