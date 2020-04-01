@@ -1,0 +1,25 @@
+- links:
+  - name: About
+    link: /about/
+  - name: Privacy
+    link: /privacy/
+  - name: Frequently Asked Questions
+    link: /FAQ/
+  - name: Contact
+    link: /contact/
+- links:
+  - name: Sign Up (for early testing)
+    link: https://forms.gle/MLeKz9nerPvX8fwC8
+    new_window: true
+  - name: Github
+    link: https://github.com/Co-Epi
+    new_window: true
+- links:
+  - name: Twitter
+    link: https://twitter.com/CoEpiApp/
+    social_icon: Twitter
+    new_window: true
+  - name: RSS
+    link: /feed.xml
+    social_icon: RSS
+    new_window: false
