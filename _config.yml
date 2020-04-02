@@ -2,8 +2,8 @@
 # Site
 
 title: CoEpi
-url: "https://coepi.org"
-baseurl: "https://coepi.org"
+#url: "https://coepi.org"
+#baseurl: "https://coepi.org"
 google_analytics_key: UA-158941850-1
 
 
@@ -56,6 +56,31 @@ defaults:
       path: "contact.html"
     values:
       full_width: true
+
+  -
+    scope:
+      path: "privacy.html"
+    values:
+      layout: "page"
+
+  -
+    scope:
+      path: "manual.html"
+    values:
+      layout: "page"
+
+  -
+    scope:
+      path: "vision.html"
+    values:
+      layout: "page"
+
+  -
+    scope:
+      path: "collaborations.html"
+    values:
+      layout: "page"
+
 
 jekyll-archives:
   enabled:

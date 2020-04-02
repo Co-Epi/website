@@ -1,3 +1,6 @@
+# CoEpi: Community Epidemiology In Action
+
+[Home page](https://co-epi.github.io/website/) | [Manual #CoEpi](manual.md) | [Vision/Design of #CoEpi](vision.md)
 
 Hi! Thanks for your interest in collaborating with CoEpi. We know many others have the same/similar ideas and have reached out about collaborating or joining forces.
 
@@ -24,4 +27,3 @@ If your goals align with this, please do reach out if you’d like to get involv
 * If you know of a developer who wants to work as a volunteer on an open source project, and has mobile app development experience or experience building cloud APIs and backend systems, please do introduce us. There are many ways to address this problem (see our current repositories [here](https://github.com/Co-Epi)); we’re leveraging the tech experience of our early committed volunteers but intend to be flexible and adopt whatever technologies our contributors are best able to use to make rapid progress. If that describes you or someone you know, please reach out to [Dana](https://twitter.com/danamlewis) and [Scott](https://twitter.com/scottleibrand), and we can get you connected to the group.
 
 * If you don’t have a tech background, you can use [this form](https://forms.gle/MLeKz9nerPvX8fwC8) to indicate your willingness to be an early CoEpi tester or to share if you have other skills that you think might be relevant in the near-to-medium term future of this project.
-

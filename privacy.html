@@ -1,13 +1,13 @@
 ---
-title: Privacy
-heading: Understanding CoEpi’s privacy model. 
-description: CoEpi takes a privacy-first approach: users are anonymous and opt-in to ANY sharing of data beyond their local device. 
+Title: "Privacy"
+heading: "Understanding CoEpi’s privacy model" 
+description: "CoEpi takes a privacy-first approach: users are anonymous and opt-in to ANY sharing of data beyond their local device."
 
 pricing_table:
   - name: Data on your device
-    color: "#8e8e8e"
+    color: "#6a98de"
     features:
-      - text: By default, data is only stored on your device:
+      - text: "By default, data is only stored on your device:"
         highlight: true
       - text: If you enable GPS permission, you will see location data.
         highlight: false
@@ -17,13 +17,13 @@ pricing_table:
         highlight: false
       - text: In future versions, you will also be able to add symptoms for family members (e.g. children).
         highlight: false
-call_to_action:
+    call_to_action:
       link: /faq
       text: See other FAQ about how CoEpi works
   - name: Data shared to the CoEpi server
-    color: "#4a4a4a"
+    color: "#4182e4"
     features:
-      - text: Data is ONLY shared to the server when you opt in to do so:
+      - text: "Data is ONLY shared to the server when you opt in to do so:"
         highlight: true
       - text: Data sent to the server, if you opt in, only includes the anonymized record of any Bluetooth devices your device saw, and the symptom list, if you reported any symptoms.
         highlight: false
@@ -31,7 +31,7 @@ call_to_action:
         highlight: false
       - text: In the future, you can also opt in to have your anonymized symptom list shared in a database for public health officials to use. 
         highlight: false
-call_to_action:
+    call_to_action:
       link: https://github.com/Co-Epi/CEN
       text: See more details about the CoEpi protocol on Github.
 
@@ -52,16 +52,4 @@ call_to_action:
         </ul>
     {% endfor %}
 </div>
-
-{% if page.faq %}
-    <h2>Pricing FAQ</h2>
-    <dl class="faq">
-        {% for item in page.faq %}
-            <div>
-                <dt>{{ item.question }}</dt>
-                <dd>{{ item.answer }}</dd>
-            </div>
-        {% endfor %}
-    </dl>
-{% endif %}
 

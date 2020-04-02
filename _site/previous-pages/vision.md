@@ -1,3 +1,6 @@
+# CoEpi: Community Epidemiology In Action
+
+[Home page](https://co-epi.github.io/website/) | [Manual #CoEpi](manual.md) | [Vision/Design of #CoEpi](vision.md)
 
 ## The CoEpi app: vision
 To fully unleash the power of community epidemiology (CoEpi), we are creating an app that empowers people to leverage their personal social network for better awareness of granular infection risks.
