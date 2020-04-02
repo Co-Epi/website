@@ -2,8 +2,8 @@
 # Site
 
 title: CoEpi
-#url: "https://coepi.org"
-#baseurl: "https://coepi.org"
+url: "https://coepi.org"
+baseurl: "https://coepi.org"
 google_analytics_key: UA-158941850-1
 
 
