@@ -1,0 +1,28 @@
+- name: Privacy
+  link: /privacy/
+  new_window: false
+  highlight: false
+- name: Frequently Asked Questions
+  link: /FAQ/
+  new_window: false
+  highlight: false
+- name: About
+  link: /about/
+  new_window: false
+  highlight: false
+- name: Contact
+  link: /contact/
+  new_window: false
+  highlight: false
+- name: Manual CoEpi
+  link: /manual/
+  new_window: false
+  highlight: false
+- name: Vision
+  link: /vision/
+  new_window: false
+  highlight: false
+- name: Collaborations
+  link: /collaborations/
+  new_window: false
+  highlight: false

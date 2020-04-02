@@ -1,6 +1,115 @@
-theme: jekyll-theme-cayman
-title: "CoEpi: Community Epidemiology In Action"
-description: a website for the Co-Epi (Community Epidemiology In Action) project 
-google_analytics: UA-158941850-1
-github:
-  repository_url: https://github.com/Co-Epi
+# ----
+# Site
+
+title: CoEpi
+url: "https://coepi.org"
+baseurl: "https://coepi.org"
+google_analytics_key: UA-158941850-1
+
+
+# Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
+logo: /favicon-96x96.png
+description: "CoEpi: Community Epidemiology in Action"
+author: CoEpi
+social:
+  name: CoEpi 
+  links:
+    - https://github.com/Co-Epi
+
+# -----
+# Build
+
+timezone: Etc/UTC
+
+collections:
+  staff_members:
+    _hide_content: true
+
+paginate: 10
+paginate_path: "/blog/:num/"
+permalink: pretty
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      _options:
+        content:
+          width: 1500
+          height: 2500
+
+  -
+    scope:
+      path: ""
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "index.html"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "contact.html"
+    values:
+      full_width: false
+
+  -
+    scope:
+      path: "privacy.html"
+    values:
+      layout: "page"
+
+  -
+    scope:
+      path: "manual.html"
+    values:
+      layout: "page"
+
+  -
+    scope:
+      path: "vision.html"
+    values:
+      layout: "page"
+
+  -
+    scope:
+      path: "collaborations.html"
+    values:
+      layout: "page"
+
+
+jekyll-archives:
+  enabled:
+    - categories
+
+plugins:
+  - jekyll-archives
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-paginate
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENCE
+
+# -----------
+social_icons:
+  - Twitter
+  - RSS
+
+_comments:
+  map: Update the map location and display settings.
+  latitude: Coordinates for the center marker on the map.
+  longitude: Coordinates for the center marker on the map.
+  zoom: The zoom level for the map.
+  pricing_table: Update the information in the pricing tables.
+  highlight: Emphasis the text
+  color: The background colour used in the plan name and call to action.
+  new_window: Open link in new window
