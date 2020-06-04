@@ -1,17 +1,13 @@
+- name: About
+  link: /about/
+  new_window: false
+  highlight: false
 - name: Privacy
   link: /privacy/
   new_window: false
   highlight: false
 - name: Frequently Asked Questions
   link: /faq/
-  new_window: false
-  highlight: false
-- name: About
-  link: /about/
-  new_window: false
-  highlight: false
-- name: Contact
-  link: /contact/
   new_window: false
   highlight: false
 - name: Manual CoEpi
