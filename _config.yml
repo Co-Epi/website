@@ -51,12 +51,7 @@ defaults:
       path: "index.html"
     values:
       layout: "default"
-  -
-    scope:
-      path: "contact.html"
-    values:
-      full_width: false
-
+      
   -
     scope:
       path: "privacy.html"
